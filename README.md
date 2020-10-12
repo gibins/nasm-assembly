@@ -1,6 +1,9 @@
-# nasm-assembly
+# NASM-Assembly
+To install nasm in ubuntu linux
 
-compile
+#sudo apt-get install nasm
+
+To compile and run asm files
 
 #nasm -f elf filename.asm
 
